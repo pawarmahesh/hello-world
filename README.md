@@ -1,2 +1,2 @@
-# hello-world
-hello world repository
+# java-spring
+spring java application repository
